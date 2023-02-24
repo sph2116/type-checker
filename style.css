@@ -9,14 +9,14 @@
 @font-face {
   font-family: "Chicane";
   font-weight: 400;
-  src: url(/assets/TypeTester-3.8.ttf);
+  src: url(assets/TypeTester-3.8.ttf);
 }
 
 
 @font-face {
   font-family: "Inter";
   font-weight: 400;
-  src: url(/assets/Inter-Regular.ttf);
+  src: url(assets/Inter-Regular.ttf);
 }
 
 body {
